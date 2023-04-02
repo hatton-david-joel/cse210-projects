@@ -1,0 +1,505 @@
+[
+    {
+      "title": "Malibu Jack's Lexington",
+      "placeId": "ChIJcWt_hgZQQogRpsDbnXOpMCE",
+      "hours": [
+        {
+          "dayOfWeek": 0,
+          "open": {
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 1,
+          "open": {
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 2,
+          "open": {
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 3,
+          "open": {
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 4,
+          "open": {
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 5,
+          "open": {
+            "hour": 12,
+            "minute": 0
+          },
+          "close": {
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 6,
+          "open": {
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ]
+    },
+  
+    {
+      "title": "Celebration Station Baton Rouge",
+      "placeId": "ChIJn8-XhKGkJoYRENnSiAPMN9w",
+      "hours": [
+        {
+          "dayOfWeek": 0,
+          "open": {
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 1,
+          "open": {
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 2,
+          "open": {
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 3,
+          "open": {
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 4,
+          "open": {
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 5,
+          "open": {
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 6,
+          "open": {
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ]
+    },
+  
+    {
+      "title": "Celebration Station Clearwater",
+      "placeId": "ChIJbTV1Lh_uwogREaukfj9jFAM",
+      "hours": [
+        {
+          "dayOfWeek": 0,
+          "open": {
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 1,
+          "open": {
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 2,
+          "open": {
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 3,
+          "open": {
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 4,
+          "open": {
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 5,
+          "open": {
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 6,
+          "open": {
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ]
+    },
+  
+    {
+      "title": "Celebration Station Greensboro",
+      "placeId": "ChIJd7qhMBkbU4gRpi6BJX8Kv4w",
+      "hours": [
+        {
+          "dayOfWeek": 0,
+          "open": {
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 1,
+          "open": {
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 2,
+          "open": {
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 3,
+          "open": {
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 4,
+          "open": {
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 5,
+          "open": {
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 6,
+          "open": {
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ]
+    },
+  
+    {
+      "title": "Celebration Station Oklahoma City",
+      "placeId": "ChIJYc-M5zIQsocRT2DaxHmDoF4",
+      "hours": [
+        {
+          "dayOfWeek": 0,
+          "open": {
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 1,
+          "open": {
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 2,
+          "open": {
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 3,
+          "open": {
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 4,
+          "open": {
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 5,
+          "open": {
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 6,
+          "open": {
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ]
+    },
+  
+    {
+      "title": "Celebration Station Mesquite",
+      "placeId": "ChIJ1TWVtoSmToYRiXoKnaQ6SeU",
+      "hours": [
+        {
+          "dayOfWeek": 0,
+          "open": {
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 1,
+          "open": {
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 2,
+          "open": {
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 3,
+          "open": {
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 4,
+          "open": {
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 5,
+          "open": {
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "hour": 23,
+            "minute": 0
+          }
+        },
+        {
+          "dayOfWeek": 6,
+          "open": {
+            "hour": 10,
+            "minute": 0
+          },
+          "close": {
+            "hour": 23,
+            "minute": 0
+          }
+        }
+      ]
+    }
+  ]
